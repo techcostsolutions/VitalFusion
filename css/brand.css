@@ -1,0 +1,7 @@
+.brand-logo {
+  width: 28px;
+  height: 28px;
+  object-fit: cover;
+  border-radius: 8px;
+  box-shadow: 0 5px 14px #216cff44;
+}
